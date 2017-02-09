@@ -790,7 +790,7 @@ In designing complex apps, strive for a minimal number of screens, each represen
 
 ---
 
-### Next Steps
+## Next Steps
 
 If you want more, consider joining me for three days for my Interaction Design Course. It’s practical, engaging, and we always have a lot of fun. You’ll find the schedule close to the top in the right-hand column. Until then, thanks for reading.
 
@@ -798,14 +798,14 @@ If you want more, consider joining me for three days for my Interaction Design C
 
 ---
 
-### Copyright
+## Copyright
 
 “First Principles of Interaction Design” is copyright 1978-2014 by Bruce Tognazzini. Permission to make copies for personal use is granted without reservation, provided this copyright notice remains on the copy. Please contact the author for permission to republish on a web site, to publish in bound form, or to make multiple copies.
 
 *   Exception: Educators and in-house corporate trainers may make sufficient copies for their own students.
 *   Exception: This work has become a standard for heuristic evaluation and cognitive walkthrough, as well as day-to-day design work, and nothing about this notice should limit its application to those endeavors, regardless of whether they are for commercial or non-commercial use, including sufficient reproduction of copies for teams carrying out such work.
 
-No commerical use may be made of the work beyond these exceptions without permission. This notice must be retained together with any version of the work.
+No commercial use may be made of the work beyond these exceptions without permission. This notice must be retained together with any version of the work.
 
 If you want to translate this work and make your result available for free, [please contact me](http://www.asktog.com/misc/mailer.html) so we can exchange links.
 
