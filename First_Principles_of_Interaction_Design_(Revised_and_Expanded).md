@@ -2,7 +2,7 @@
 
 The following principles are fundamental to the design and implementation of effective interfaces, whether for traditional GUI environments, the web, mobile devices, wearables, or Internet-connected smart devices.
 
-# Help!
+## Help!
 
 This is a huge revision. I expect I have made mistakes. Please leave corrections and suggestions in the Comments at the end. If you have better examples than I’m using, please include them as well, but give me enough information about them, including links or cites, that I can make use of them.
 
@@ -17,13 +17,9 @@ What has changed greatly is the level of detail: You will find many new sub-prin
 *   [Belarusian](http://www.fatcow.com/edu/designedtogivefitts-be/)
 *   [Dutch](http://aifia.org/nl/translations/000187.html)
 *   [English](http://asktog.com/basics/firstPrinciplesOldEdition.html)
-
-
 *   [German](http://meiert.com/de/publications/translations/asktog.com/firstprinciples/)
 *   [Italian](http://www.10people.net/tutorial/interaction_design-ask_tog/pricipi_di_interaction_design.html)
 *   [Portuguese](http://userdesign.org/principios.html)
-
-
 *   [Spanish](http://galinus.com/es/articulos/principios-diseno-de-interaccion.html)
 *   [Russian](http://ashapiro.ru/translations/tog-first-principles/)
 *   [Ukrainian](http://www.portablecomponentsforall.com/edu/designedtogivefitts-uk/)
@@ -38,7 +34,7 @@ Because an application or service appears on the web or mobile device, the princ
 
 
 
-#### I Love Apple, But It’s Not Perfect
+### I Love Apple, But It’s Not Perfect
 
 I’ve used many example drawn from Apple products here, often as examples of bad interface practices. Apple has made many revolutionary breakthroughs in interaction technology, a trend I fully expect will continue. They also make mistakes, fewer than most, but because I use Apple products almost exclusively, I suffer from them daily. While composing this document on my various Apple devices, it’s only natural that I extract examples from what I see here and now.
 
@@ -92,7 +88,7 @@ Allowing users latitude does not mean developers should abandon all control. On 
 
 They also set an arbitrary timing and movement threshold for determining whether a user is or is not pressing a link on purpose, rather than her just pausing for an instant at the start of an upward swipe for scroll, for example. They then offer the user no way to alter that threshold, so many users find themselves triggering links to unwanted pages many, many times per day. That is an irresponsible application of control. We learned 30 years ago that users needed access to a slider for mouse double-clicking. Touch users need the same thing for link timing.
 
-#### Perfect Link Triggering, Every Time
+### Perfect Link Triggering, Every Time
 
 In thinking about solutions to problems like accidental link triggering, you have to consider the difference between a user who is accidentally triggering a link and a user who intends to trigger it.
 
@@ -334,7 +330,7 @@ A few designers, having fallen in love with the clean lines of smartphone apps, 
 
 
 
-#### Web Pages & Cloud-based Applications
+### Web Pages & Cloud-based Applications
 
 The first “inside-out” applications appeared inside web browsers as independent developers struggled to create complex sites and apps within the confines of a simple window in a simple tool designed for simple browsing of static pages. Even though the basic paradigm was shown inadequate by 1996, nothing at all has been done by standards committees to address the needs of these developers.
 
@@ -453,7 +449,7 @@ Users should never feel trapped inside a maze. They should have a clear path out
 
 
 
-#### Cancel & Wizards
+### Cancel & Wizards
 
 Cancel is particularly import in Wizards. Let people leave at any time, but make sure to tell them where they can finish the task later on. When you user-test, bring back two weeks later the same people whom you had cancel in the middle of a task and ask them to continue. Watch where they browse. If they browse to two different places in your menus, consider putting the function both places.
 
@@ -624,7 +620,7 @@ DP Maps, as originally released in 2009 for the iPhone, used the time-honored ma
 
 It would superimpose TV satellite aiming information, including the direction to the satellite (the green line) on Google mapping data. Sometimes location and direction were fairly easy to interpret as in this case, where the user is standing in the parking lot of 1 Infinite Loop, Apple’s then-current headquarters. With such a unique location, surrounded by distinct landmarks, locating what building the green line should just miss when aimed correctly was pretty simple. It was not so simple when the user was standing in a wooded area surrounded by tens of thousands of trees, all of which look remarkably alike when viewed from outer space. That map metaphor had been best the developer could do for the original desktop version, when installers would look at locations on their computers at their office before going out to worksites. The iPhone, however, offered a new opportunity.
 
-#### A new pair of glasses
+### A new pair of glasses
 
 Often times, in reworking an old idea, you will want to “put on a new pair of glasses” as a way of looking at the old problem from an entirely different angle. In this case, my recommendation to the developer was that he do that quite literally, scrapping the map metaphor entirely in favor of giving people magical sight, so they could simply look up and see the communications satellites orbiting 22,000 miles in space. That’s exactly what he did:
 
